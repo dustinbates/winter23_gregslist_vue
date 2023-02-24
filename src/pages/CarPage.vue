@@ -29,7 +29,7 @@
                 <img height="64" width="64" :src="car.seller.picture" :alt="car.seller.name">
               </div>
             </div>
-
+          
           </div>
         </div>
       </div>

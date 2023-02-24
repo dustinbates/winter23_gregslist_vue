@@ -17,10 +17,6 @@
       </div>
     </div>
 
-
-
-
-
     <Modal id="test-modal" modal-title="Add a Car 🚗">
       <CarForm />
     </Modal>
